@@ -27,6 +27,7 @@ plugins:
   - jekyll-gist
   - jekyll-octicons
   - jekyll-github-metadata
+  - jemoji
 
 titles_from_headings:
   enabled:     true
@@ -41,5 +42,4 @@ kramdown:
   auto_ids: true
   hard_wrap: false
   syntax_highlighter: rouge
-plugins:
-  - jemoji
+
